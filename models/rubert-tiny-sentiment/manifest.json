@@ -1,0 +1,10 @@
+{
+  "repository": "onnx-community/rubert-tiny-sentiment-balanced-ONNX",
+  "revision": "822213a162cb33e1ed632625a4433d327f0d6e10",
+  "files": {
+    "model.onnx": "ed4598203827e7a1aad0f029081ed82dff618b7a05182108b4b8de9c4a2e9a38",
+    "tokenizer.json": "064a132db204e46351abb4c3acb9da22fc4a837390be3b87877e79212e10dffa",
+    "config.json": "c21aa739ce6de22492af7131cdd900c999b0fc859800ac4cbd957ee373d01ee5",
+    "MODEL_CARD.md": "a97750f17e1c495c964a0b35f2be6475334c7a697d5a8805491096da4454af8c"
+  }
+}
